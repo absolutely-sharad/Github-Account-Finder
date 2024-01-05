@@ -1,7 +1,3 @@
-Certainly! Here's a README file for your GitHub Account Finder project:
-
----
-
 # GitHub Account Finder
 
 ## Overview
